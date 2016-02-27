@@ -1,2 +1,1 @@
-# mvc5_6
-Proyecto MVC
+# codigo de ejemplo de MVC
