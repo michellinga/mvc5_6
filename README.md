@@ -1,9 +1,10 @@
-# Proyecto de Transporte
+# Proyecto de Boticas
 -	Mantenimiento de clientes
--	Mantenimiento de los vehículos de transportes (Camiones)
--	Mantenimiento de conductores
+-	Mantenimiento de los Productos (Camiones)
+-	Mantenimiento de scursales
 -	Mantenimiento de usuarios del sistema
 -	Generacion facturas
 -	Generacion guía de remisión
--	Mantenimiento de origen y destino
+-	proceso de venta
+-	Kardex
 
